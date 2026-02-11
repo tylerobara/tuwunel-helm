@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  tuwunel:
+  - apiVersion: v1
+    appVersion: v1.4.1
+    created: "2026-02-11T02:30:47.000451859Z"
+    description: a very cool, featureful fork of Conduwuit
+    digest: acfb8fb885dbc23b2f910b8205e20b85271e460313bc5877b07278c87fffa5fb
+    home: https://github.com/AreYouLoco/tuwunel-helm
+    keywords:
+    - tuwunel
+    - matrix
+    - homeserver
+    maintainers:
+    - email: areyouloco@paranoici.org
+      name: AreYouLoco?
+    name: tuwunel
+    sources:
+    - https://github.com/AreYouLoco/tuwunel-helm
+    - https://github.com/matrix-construct/tuwunel
+    urls:
+    - https://github.com/tylerobara/tuwunel-helm/releases/download/tuwunel-0.1.1/tuwunel-0.1.1.tgz
+    version: 0.1.1
+generated: "2026-02-11T02:30:47.000458993Z"
